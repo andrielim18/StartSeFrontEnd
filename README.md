@@ -5,6 +5,6 @@ Repositório para guardar as atividades desenvolvidas no curso da StartSe
 ### Links úteis:
 * https://www.w3schools.com/
 * https://www.lipsum.com/
-*https://favicon.io/
+* https://favicon.io/
 
 
