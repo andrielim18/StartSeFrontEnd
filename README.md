@@ -1,6 +1,6 @@
 # StartSeFrontEnd
 ***
 Repositório para guardar as atividades desenvolvidas no curso da StartSe            
-## [Conheça a plataforma:](https://www.startse.com/)
+## [Clique aqui e acesse o site da StartSe:](https://www.startse.com/)
 
 
